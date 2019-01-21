@@ -1,0 +1,1 @@
+--i images/water_bottle.png --p bvlc_googlenet.prototxt --m bvlc_googlenet.caffemodel --l synset_words.txt
